@@ -63,4 +63,4 @@ You can also view the published dashboard on [Tableau Public]https://public.tabl
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
+   git clone https://github.com/sukumar-govindraj/Sales-Dashboard.git
