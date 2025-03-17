@@ -6,7 +6,7 @@
 
 > **Build a data-driven HR department** with this comprehensive dashboard, offering **summary-level insights** and **detailed employee records** for deeper exploration.
 
-You can also view the published dashboard on [Tableau Public]https://public.tableau.com/app/profile/sukumar.govindaraj/viz/SalesCustomerDashboardsDynamic_17422361169030/SalesDashboard
+You can also view the published dashboard on [Tableau Public](https://public.tableau.com/app/profile/sukumar.govindaraj/viz/SalesCustomerDashboardsDynamic_17422361169030/SalesDashboard)
 ---
 
 ## :sparkling_heart: Why This Dashboard?
